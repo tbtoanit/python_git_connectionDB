@@ -14,4 +14,3 @@ def nhap_nhan_vien():
 def xuat_thong_tin(list_nv):
     for nv in list_nv:
         print(nv.get_ma_nhan_vien(), "---", nv.get_ten_nhan_vien(),"---",nv.get_chuc_vu())
-    # nga da xem!
