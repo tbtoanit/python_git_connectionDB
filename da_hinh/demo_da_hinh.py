@@ -17,5 +17,4 @@ obj_usa = USA()
 for i in (obj_india,obj_usa):
     i.capital()
     i.languages()
-#ứng với 1 tên phương thức được gọi nhưng sẽ có kết quả thực hiện khác nhau
-#tùy thuộc vào từng đối tượng
+#ứng với 1 tên phương thức được gọi nhưng sẽ có kết quả thực hiện khác nhau.Tùy thuộc vào từng đối tượng
